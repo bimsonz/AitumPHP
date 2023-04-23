@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Model;
+namespace Aitum\Model;
 
 class Rule {
   public function __construct(

@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Command;
+namespace Aitum\Command;
 
-use App\Model\ApiCommandRequest;
-use App\Model\State;
-use App\Model\StateValueInterface;
+use Aitum\Model\ApiCommandRequest;
+use Aitum\Model\State;
+use Aitum\Model\StateValueInterface;
 
 class StateSetCommand implements ApiCommandInterface {
 

@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Model;
+namespace Aitum\Model;
 
-use App\Enum\StateType;
+use Aitum\Enum\StateType;
 
 class StringState implements StateValueInterface {
 

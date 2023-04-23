@@ -2,8 +2,8 @@
 
 namespace App;
 
-use App\Client\HttpClientInterface;
-use App\Model\ApiCommandRequest;
+use Aitum\Client\HttpClientInterface;
+use Aitum\Model\ApiCommandRequest;
 use GuzzleHttp\Client;
 use Psr\Http\Message\ResponseInterface;
 

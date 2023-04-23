@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Command;
+namespace Aitum\Command;
 
-use App\Model\ApiCommandRequest;
+use Aitum\Model\ApiCommandRequest;
 
 interface ApiCommandInterface {
 

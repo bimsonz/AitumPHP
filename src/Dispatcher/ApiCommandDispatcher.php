@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Dispatcher;
+namespace Aitum\Dispatcher;
 
-use App\Client\HttpClientInterface;
-use App\Command\ApiCommandInterface;
+use Aitum\Client\HttpClientInterface;
+use Aitum\Command\ApiCommandInterface;
 
 class ApiCommandDispatcher {
 

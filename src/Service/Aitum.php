@@ -1,12 +1,12 @@
 <?php
 
-use App\Client\HttpClientInterface;
-use App\Command\StateSetCommand;
-use App\Command\TriggerRuleCommand;
-use App\Dispatcher\ApiCommandDispatcher;
-use App\Model\Rule;
-use App\Model\State;
-use App\Model\StateValueInterface;
+use Aitum\Client\HttpClientInterface;
+use Aitum\Command\StateSetCommand;
+use Aitum\Command\TriggerRuleCommand;
+use Aitum\Dispatcher\ApiCommandDispatcher;
+use Aitum\Model\Rule;
+use Aitum\Model\State;
+use Aitum\Model\StateValueInterface;
 
 class Aitum {
 

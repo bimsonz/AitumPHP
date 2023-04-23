@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Command;
+namespace Aitum\Command;
 
-use App\Model\ApiCommandRequest;
-use App\Model\Rule;
+use Aitum\Model\ApiCommandRequest;
+use Aitum\Model\Rule;
 
 class TriggerRuleCommand implements ApiCommandInterface {
 

@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Client;
+namespace Aitum\Client;
 
-use App\Model\ApiCommandRequest;
+use Aitum\Model\ApiCommandRequest;
 use Psr\Http\Message\ResponseInterface;
 
 interface HttpClientInterface {
