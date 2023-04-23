@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace Aitum\Client;
 
 use Aitum\Client\HttpClientInterface;
 use Aitum\Model\ApiCommandRequest;
