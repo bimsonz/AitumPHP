@@ -1,13 +1,20 @@
 {
     "name": "bimsonz/aitum-php",
     "description": "PHP Library for Aitum's public API",
-    "require": {
-        "php": ">=8.1",
-        "guzzlehttp/guzzle": "^7.0"
-    },
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Aitum\\": "src/"
         }
+    },
+    "authors": [
+        {
+            "name": "Zach Bimson",
+            "email": "zach@bison.digital"
+        }
+    ],
+    "require": {
+        "php": ">=8.1",
+        "guzzlehttp/guzzle": "^7.0"
     }
 }
