@@ -1,4 +1,4 @@
-# AitumPHP
+# aitum.php
 
 AitumPHP is a simple library that provides an easy way to interact with the Aitum public API.
 
